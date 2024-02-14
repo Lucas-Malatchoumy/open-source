@@ -1,0 +1,19 @@
+{
+  "name": "open-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Malatchoumy/open-source.git"
+  },
+  "author": "lucas-malatchoumy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-Malatchoumy/open-source/issues"
+  },
+  "homepage": "https://github.com/Lucas-Malatchoumy/open-source#readme"
+}
